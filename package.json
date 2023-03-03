@@ -1,0 +1,20 @@
+{
+  "name": "gpt3-semaphore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciob/gpt3-semaphore.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciob/gpt3-semaphore/issues"
+  },
+  "homepage": "https://github.com/marciob/gpt3-semaphore#readme"
+}
